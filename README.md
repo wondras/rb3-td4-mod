@@ -4,19 +4,19 @@ An Arduino-based mod for using Roland TD-4 drums with the Rock Band 3 MIDI Pro A
 
 # Features
 
-1. Open hi-hat mapped to Blue cymbal
+### Open hi-hat mapped to Blue cymbal
 
-...Many songs are charted with closed hi-hats on yellow and open on blue. The TD-4 kit
-...doesn't allow mapping the MIDI note for open hi-hat to any of the notes the MPA accepts
-...for the blue cymbal. This mod replaces the default open hi-hat note from the TD-4 with
-...the ride cymbal note the MPA uses for blue.
+Many songs are charted with closed hi-hats on yellow and open on blue. The TD-4 kit
+doesn't allow mapping the MIDI note for open hi-hat to any of the notes the MPA accepts
+for the blue cymbal. This mod replaces the default open hi-hat note from the TD-4 with
+the ride cymbal note the MPA uses for blue.
 
-2. Double crash hits mapped to Green+Yellow
+### Double crash hits mapped to Green+Yellow
 
-...Many songs have double crashes mapped to Green+Yellow. It's not very satisfying to use
-...the hi-hat as a crash. Normally both crash cymbals on the kit are mapped to the green
-...cymbal in the game, but if you hit both at the same time, the mod sends Green+Yellow
-...instead.
+Many songs have double crashes mapped to Green+Yellow. It's not very satisfying to use
+the hi-hat as a crash. Normally both crash cymbals on the kit are mapped to the green
+cymbal in the game, but if you hit both at the same time, the mod sends Green+Yellow
+instead.
 
 
 # Construction
